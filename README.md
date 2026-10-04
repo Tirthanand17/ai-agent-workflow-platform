@@ -1,4 +1,8 @@
-﻿# Tool-Using AI Agent Workflow Platform
+# Tool-Using AI Agent Workflow Platform
+
+![CI](https://github.com/Tirthanand17/ai-agent-workflow-platform/actions/workflows/tests.yml/badge.svg)
+
+![Tool-Using AI Agent architecture](docs/architecture.png)
 
 Portfolio-grade AI agent project demonstrating **planning, tool use, memory, guardrails, evaluation, API delivery, testing, and CI**.
 
